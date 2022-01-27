@@ -1,3 +1,3 @@
-# remote_test
+# remote_test: development
 testing remote (VPN) + pull requrests
 
