@@ -1,2 +1,2 @@
 # remote_test
-testing remote
+testing remote (VPN)
